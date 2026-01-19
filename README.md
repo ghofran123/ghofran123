@@ -16,5 +16,5 @@ Power BI | SQL | Python | Azure | Databricks
 ---
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn]([link](https://www.linkedin.com/in/Ghofran-Ghanmi))
+- LinkedIn: [Ghofran Ghanmi](https://www.linkedin.com/in/Ghofran-Ghanmi)
 - Email: ghanmi.ghofran@gmail.com
