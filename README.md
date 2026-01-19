@@ -1,8 +1,11 @@
 ![Banner](./Banner.png)
 # :computer: Ghofran Ghanmi
 
-Business Intelligence Engineer (Data Analyst/Data Engineer) 
-Power BI | SQL | Python | Azure | Databricks
+**Business Intelligence Engineer (Data Analyst/Data Engineer)** 
+
+**`Power BI | SQL | Python | Azure | Databricks`**
+
+
 
 ## 📈 [My Data Analysis Projects](https://github.com/GhofranGhanmi?tab=repositories)
 ---
@@ -11,9 +14,8 @@ Power BI | SQL | Python | Azure | Databricks
 
 | Project | Tools | Description | Link |
 |--------|------|-------------|------|
-| Sales Dashboard | Power BI, Excel | Dashboard to track sales KPIs | [Repo](link) |
-| Complaints Analysis | Python, NLP, SQL | Sentiment analysis to improve customer retention | [Repo](link) |
-| ETL Pipeline | Databricks, Azure | Data pipeline for marketing data | [Repo](link) |
+| Marketplace Sales analysis | Power BI, SQL | Dashboard to track sales KPIs | [Repo](https://github.com/GhofranGhanmi/Marketplace-Sales-analysis) |
+| Data Explorations | Python, EXCEL, SQL | Collection of data exploration and cleaning projects using SQL and Python. | [Repo](https://github.com/GhofranGhanmi/Data-Explorations) |
 
 ---
 
