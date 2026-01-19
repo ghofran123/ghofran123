@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./Banner.png)
 ## Hi, I’m Ghofran 👋
 
 I’m a Data Analyst / Aspiring Data Engineer  
