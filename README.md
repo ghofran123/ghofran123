@@ -24,6 +24,7 @@ Curious by nature and driven by impact, I believe good data work isn’t about c
 
 | Project | Tools | Description | Link |
 |--------|------|-------------|------|
+| IBM-HR-Analytics-Employee-Attrition-Performance | Power BI, SQL | Multi-page HR report tracking key HR KPIs | [Repo](https://github.com/GhofranGhanmi/IBM-HR-Analytics-Employee-Attrition-Performance) |
 | Marketplace Sales analysis | Power BI, SQL | Dashboard to track sales KPIs | [Repo](https://github.com/GhofranGhanmi/Marketplace-Sales-analysis) |
 | Data Explorations | Python, EXCEL, SQL | Collection of data exploration and cleaning projects using SQL and Python. | [Repo](https://github.com/GhofranGhanmi/Data-Explorations) |
 
